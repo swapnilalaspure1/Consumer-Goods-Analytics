@@ -25,27 +25,36 @@ Address 10 specific business questions through SQL queries
 ### Project Structure
 
 SQL Files: Contains SQL queries for each of the ten ad hoc requests. These queries extract and manipulate data to answer specific questions.
+
 Project Presentation: A PowerPoint file presenting the project findings and insights.
 
 ### Skills Demonstrated
 
 SQL Query Writing
 Utilizing CTEs (Common Table Expressions)
+
 Implementing ranking functions
+
 Performing various types of JOINs
+
 Applying date functions
+
 Writing subqueries
+
 Using numeric functions
 
-
 Data Extraction and Transformation
+
 Data Analysis and Interpretation
+
 Report Generation
+
 Problem Solving and Decision Making
 
 ### Repository Contents
 
 SQL queries for each ad hoc request
-Dataset information (if applicable)
+
 Analysis results and insights
+
 Project presentation file
