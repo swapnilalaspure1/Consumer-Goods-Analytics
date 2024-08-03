@@ -1,5 +1,8 @@
 # Consumer Goods Data Analytics Project
 
+## Video Presentation Link : 
+https://www.linkedin.com/posts/swapnilalaspure_dataanalysis-sql-businessintelligence-activity-7225595550211919872-_wU4?utm_source=share&utm_medium=member_desktop
+
 ## Overview
 This repository contains the SQL queries and analysis for the Consumer Goods domain project, part of the Data Analytics Bootcamp at Codebasics. The project focuses on analyzing data from "AtliQ Hardwares", a global leader in computer hardware and peripherals.
 
