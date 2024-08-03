@@ -11,9 +11,9 @@ Objective: Answer 10 specific ad hoc requests using SQL queries
 ### About AtliQ Hardwares
 AtliQ Hardwares is a prominent hardware company with a worldwide presence, specializing in:
 
-Personal Computers (PCs)
-Printers
-Computer mice
+Personal Computers (PCs),
+Printers,
+Computer mice,
 Other computer accessories
 
 ### Project Goals
