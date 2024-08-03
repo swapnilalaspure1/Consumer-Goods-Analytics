@@ -5,7 +5,9 @@ This repository contains the SQL queries and analysis for the Consumer Goods dom
 
 ### Project Scope
 Dataset: Consumer goods sales and inventory data from AtliQ Hardwares
+
 Tools: SQL
+
 Objective: Answer 10 specific ad hoc requests using SQL queries
 
 ### About AtliQ Hardwares
