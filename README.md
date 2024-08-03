@@ -53,7 +53,7 @@ Report Generation
 
 Problem Solving and Decision Making
 
-### Repository Contents
+# Repository Contents
 
 SQL queries for each ad hoc request
 
